@@ -1,0 +1,94 @@
+# Scope
+*Scope of the document here*
+
+# References
+| Document ID | Title |
+| ----------- | ----------- |
+| ISO 14971 | Medical devices - Application of risk management to medical devices, third edition |
+| *document* | *title* | 
+
+# Terms and Definitions
+
+| Term | Definition |
+| ---- | ---------- |
+| Harm | Injury or damage to the health of people, or damage to property or the environment (ISO 14971)|
+| Hazard | Potential source of harm (ISO 14971)|
+| Life cycle | Series of all phases in the life of a medical device from initial conception to final decommissioning and disposal (ISO 14941)|
+| Risk | Combination of the probability of occurrence of harm and the severity of that harm (ISO 14971)|
+| Risk management | Systematic application of management policies, procedures, and practices to the tasks of analyzing, evaluating, controlling, and monitoring risk (ISO 14971)|
+| Severity | Measure of the possible consequences of a hazard (ISO 14971)|
+
+# Risk Management Activities (4.4a)
+## Description of the Medical Device
+*Option 1 (preferred): A reference to the description of the medical device.  This is probably going to show up elsewhere in your documentation.  Don't repeat the description since it will inevitably get out of sync as the various copies of the device description get word-smithed over the course of your project and then you are going to have conflicting descriptions.*
+
+*Option 2 (not preferred): Add a description of your device.  If it shows up somewhere else in your documentation that will be reviewed I reiterate, don't do this.  It's stupid.*
+
+## Risk Management Life Cycle Phases
+
+
+# Responsibilities and Authorities (4.4b)
+
+# Review of Risk Management Activities (4.4c)
+*Option 1 (preferred): Copy what your QMS says.  The benefit of copying your QMS is that you don't get impacted when quality decides to go on a continuous improvement crusade.  It also allows you to tailor the review activities to your project's needs.  Remember, you are going to have to defend your risk management in an audit.  Don't get stuck defending some crap someone else wrote.*
+
+*Option 2: Reference your QMS.  See above for reasons on why you might not want to do this.*
+
+*Option 3: Make it up yourself.*
+
+> Responsibility of management in the review activities.  Top management needs to sign off on whatever the final product is.
+
+# Risk Acceptability (4.4d)
+## Policy for Determining Acceptable Risk
+Risk acceptability is defined in the table below.
+| Risk Level | Risk acceptability |
+| ---------- | ------------------ |
+| Low        | Risks at this level are acceptable without additional risk control required. |
+| Medium     | Risks at this level are accepetable if the application of additional risk controls will not reduce the risk further or if the application of additional risk controls increases the overall residual risk. |
+| High       | Risks at this level are accepetable if the application of additional risk controls will not reduce the risk further or if the application of additional risk controls increases the overall residual risk, and a risk benefit analysis determines that benefits outweigh the risk, and the residual risk is disclosed in the instructions for use. |
+
+
+### Risk Categories
+Risk categories are determined using the table below.
+| | | | | | |
+| -------------- | -------------- | ---------- | ----------- | ------------ | ---------------- |
+|                | **Negligible** | **Minor**  | **Serious** | **Critical** | **Catastrophic** |
+| **Frequent**   | Low            | Medium     | High        | High         | High             |
+| **Probable**   | Low            | Medium     | Medium      | High         | High             |
+| **Occasional** | Low            | Low        | Medium      | Medium       | High             |
+| **Remote**     | Low            | Low        | Low         | Medium       | Medium           |
+| **Improbable** | Low            | Low        | Low         | Low          | Medium           |
+
+
+### Probability of Occurrence of Harm
+Probability of occurrence of harm levels are defined by the table below
+| Probability Of Occurrence of Harm | Probability (P) of Occurence of Harm Per Use | Harms (X) per 100,000 Devices Per Year |
+| --------------------------------- | -------------------------------------------- | -------------------------------------- |
+| Frequent                          | P > 1 in 1,000                               | X > 100,000                            |
+| Probable                          | 1 in 10,000 < P <= 1 in 1,000                | 10,000 < X <= 100,000                  |
+| Occassional                       | 1 in 100,000 < P <= 1 in 10,000              | 1,000 < X <= 10,000                    |
+| Remote                            | 1 in 1,000,000 < P <= 1 in 100,000           | 100 < X <= 1,000                       |
+| Improbable                        | P <= 1 in 1,000,000                          | X <= 100                               |
+
+### Severity of Harm
+Severity levels are defined in the table below.
+| Severity of Harm | Description |
+| ---------------- | ----------- |
+| Negligible | Discomfort, inconvenience, or no harm.  Property or environmental damage totaling less than $10,000. No change to the treatment of a patient's condition. |
+| Minor | Injury requiring non-professional medical intervention or basic first aid to remedy. Iterference with other equipment.  Property or environmental damage totaling at least $10,000 and less than $100,000. A delay or change in the treatment of a condition that does not change the clinical outcome for the patient. |
+| Serious | Injury requiring medical intervention to to remedy.  Temporary impartment.  Interference with information technology equipment or infrastructure equipment. Property or environmental damage totaling at least $100,000 and less than $1,000,000. A delay or change in the treatment of a condition that results in serious injury. |
+| Critical | Injury resulting in premanent imparment or life long treatment. Interference with non-life sustaining medical equipment. Property or environmental damage totaling at least $1,000,000 and less than $10,000,000. A delay or change in the medical treatment of a condition that results in critical injury. |
+| Catastrophic | Injury resulting in death, coma, paralysis, or brain damage.  Immediate life threatening injury.  Interference with life sustaining medical equipment. Property or environmental damage totaling $10,000,000, or more.  A delay or change in the medical treatment of a condition that results in catestrophic injury or immediate life threatening injury. |
+
+## Criteria for Accepting Risks When the Probability of Occurrence of Harm Cannot Be Estimated
+*Option 1: If you use a probability of a hazardous situation occurring and a probability of a hazardous situation leading to harm*
+
+When the probability of a hazardous situation occurring cannot be estimated, the probability of the hazardous situation leading to harm is used as the probability of occurrence of harm.  When the probability of a hazardous situation leading to harm cannot be estimated, the probability of the hazardous situation occurring is used as the probability of occurrence of harm.  If neither can be estimated, the probability of occurrence of harm is assumed to be frequent.  The resulting risk is determined using the risk category table above and assessed using the risk acceptability table above.
+
+*Option 2: If you use only a probability of occurrence of harm*
+
+When the probability of occurrence of harm cannot be estimated, it shall be assumed to be frequent.  The resulting risk is determined using the risk category table above and assessed using the risk acceptability table above.
+
+# Evaluation of Overall Residual Risk (4.4e)
+
+
