@@ -20,9 +20,11 @@ $if(geometry)$
 \usepackage[$for(geometry)$$geometry$$sep$,$endfor$]{geometry}
 $endif$
 \usepackage{amsmath,amssymb}
+
 \usepackage{titlesec}
 \titleformat{\section}{\fontsize{12}{14}\selectfont\bfseries}{\thesection}{1em}{}
 \titleformat{\subsection}{\fontsize{12}{14}\selectfont\bfseries}{\thesubsection}{1em}{}
+\titleformat{\subsubsection}{\fontsize{12}{14}\selectfont\bfseries}{\thesubsubsection}{1em}{}
 
 $--
 $-- section numbering
