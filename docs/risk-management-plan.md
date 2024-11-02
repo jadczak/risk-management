@@ -63,6 +63,7 @@ Risk Management Plan
 | Risk management lead | *name* | Create risk management plan, hazard analysis, risk management report, and compile the risk management file. |
 | Clincal lead | *name* | Create clinical hazards list, risk benefit analysis, and clinical evaluation report. |
 | Quality assurance | *name* | Conduct risk management reviews. |
+| Verification | *name* | Verify risk controls |
 | Systems engineering | *name* | Create system fmea |
 | Electrical engineering | *name* | Create electrical fmea |
 | Mechanical engineering | *name* | Create mechanical fmea |
