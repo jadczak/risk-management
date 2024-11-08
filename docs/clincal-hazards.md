@@ -1,6 +1,16 @@
 Clinical Hazards List
 =====================
 
+# Allergic Reaction
+
+| Severity | Description |
+| -------- | ----------- |
+| Negligible | Watery eyes, runny nose, sneezing. |
+| Minor | Localized redness, swelling, or itchiness in the affected area. |
+| Serious | Nausea, vomitting, cramps, or diarrhea. |
+| Critical | Airway constriction, hypotention, tachycardia. |
+| Catastrophic | Anaphylaxis, refractory shock. |
+
 # Burn
 
 | Severity | Description |
@@ -9,9 +19,19 @@ Clinical Hazards List
 | Minor | Full-thickness burns totaling 1% or less total body surface area.  Partial-thickness burns totaling 5% or less total body surface area. |
 | Serious | Full-thickness burns totaling more than 1% total body surface area.  Parital-thickness burn totaling more than 5% total body surface area. |
 | Critical | Full-thickness or partial-thickness burns totaling more than 20% total body surface area. |
-| Catestrophic | Full-thickness or partial-thickness burns totaling more than 40% total body surface area. |
+| Catastrophic | Full-thickness or partial-thickness burns totaling more than 40% total body surface area. |
 
 *Note: In patient treatment is recommended at the 1% full / 5% partial level.  At 10% TBSA IV fluids are given.  At 20% nutritional support is given.  At 40% allographs (from cadavers) and xenographs (from pigs) are considered for temporary coverage.  Merck Manual Twentieth Edition ISBN 978-0911910421.*
+
+# Poisoning
+
+| Severity | Description |
+| -------- | ----------- |
+| Negligible | Light headedness, sedation, headache. |
+| Minor | Temporary fine motor control deterioration.  Agitation, restlessness, anxiety, insomnia. |
+| Serious | Temporary gross motor control deterioration.  Nasuea, vomitting, cramps, or diarrhea. |
+| Critical | Hallucinations, loss of conciousness, tachycardia, hyperthermia. |
+| Catastrophic | Paralysis, liver failure, psychosis, coma, death. |
 
 # BLANK
 
@@ -21,4 +41,4 @@ Clinical Hazards List
 | Minor | |
 | Serious | |
 | Critical | |
-| Catestrophic | |
+| Catastrophic | |
