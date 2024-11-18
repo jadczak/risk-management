@@ -28,7 +28,7 @@ Clinical Hazards List
 | Severity | Description |
 | -------- | ----------- |
 | Negligible | Electrostatic discharge, tinging feeling. |
-| Minor | Involuntary muscle contraction, transient pain resovling itself in 24 hours. |
+| Minor | Involuntary muscle contraction, transient pain resolving itself in 24 hours. |
 | Serious | Loss of feeling in limb, pain extending beyond 24 hours. |
 | Critical | Loss of conciousness, paralysis of a limb, cardiac arrhythmia.  |
 | Catastrophic | Cardiac arrest, coma, permanent brain damage. |
