@@ -21,7 +21,19 @@ Clinical Hazards List
 | Critical | Full-thickness or partial-thickness burns totaling more than 20% total body surface area. |
 | Catastrophic | Full-thickness or partial-thickness burns totaling more than 40% total body surface area. |
 
-*Note: In patient treatment is recommended at the 1% full / 5% partial level.  At 10% TBSA IV fluids are given.  At 20% nutritional support is given.  At 40% allographs (from cadavers) and xenographs (from pigs) are considered for temporary coverage.  Merck Manual Twentieth Edition ISBN 978-0911910421.*
+*Note: Inpatient treatment is recommended at the 1% full / 5% partial level.  At 10% TBSA IV fluids are given.  At 20% nutritional support is given.  At 40% allographs (from cadavers) and xenographs (from pigs) are considered for temporary coverage.  Merck Manual Twentieth Edition ISBN 978-0911910421.*
+
+# Electrical Injury
+
+| Severity | Description |
+| -------- | ----------- |
+| Negligible | Electrostatic discharge, tinging feeling. |
+| Minor | Involuntary muscle contraction, transient pain resovling itself in 24 hours. |
+| Serious | Loss of feeling in limb, pain extending beyond 24 hours. |
+| Critical | Loss of conciousness, paralysis of a limb, cardiac arrhythmia.  |
+| Catastrophic | Cardiac arrest, coma, permanent brain damage. |
+
+*Note: Commonly called "shock" or "electric shock".  Nitpicky reviewers have pushed back on that terminology recently.  Medical books tend to refer to this as electrical shock, so hopefully there are no more complaints.*
 
 # Poisoning
 
