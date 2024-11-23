@@ -33,7 +33,7 @@ Clinical Hazards List
 | Critical | Loss of conciousness, paralysis of a limb, cardiac arrhythmia.  |
 | Catastrophic | Cardiac arrest, coma, permanent brain damage. |
 
-*Note: Commonly called "shock" or "electric shock".  Nitpicky reviewers have pushed back on that terminology recently.  Medical books tend to refer to this as electrical shock, so hopefully there are no more complaints.*
+*Note: Commonly called "shock" or "electric shock".  Nitpicky reviewers have pushed back on that terminology recently.  Medical books tend to refer to this as electrical injury, so hopefully there are no more complaints.*
 
 # Poisoning
 
@@ -44,6 +44,18 @@ Clinical Hazards List
 | Serious | Temporary gross motor control deterioration.  Nasuea, vomitting, cramps, or diarrhea. |
 | Critical | Hallucinations, loss of conciousness, tachycardia, hyperthermia. |
 | Catastrophic | Paralysis, liver failure, psychosis, coma, death. |
+
+# Psychological
+
+| Severity | Description |
+| -------- | ----------- |
+| Negligible | Annoyance or displeasure. |
+| Minor | Disturbances resulting in a loss of sleep.  Anxiety. |
+| Serious | Paranoia, mania, depression. |
+| Critical | PTSD, dissociative amnesia, hallucinations.  |
+| Catastrophic | Suicidal ideations.  |
+
+*Note: Harms associated with the vast majority of medical devices are going to be limited to negligible and minor psychological harms.*
 
 # BLANK
 
