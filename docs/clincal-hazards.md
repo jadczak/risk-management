@@ -35,6 +35,16 @@ Clinical Hazards List
 
 *Note: Commonly called "shock" or "electric shock".  Nitpicky reviewers have pushed back on that terminology recently.  Medical books tend to refer to this as electrical injury, so hopefully there are no more complaints.*
 
+# Infection
+
+|Severity | Description |
+| -------- | ----------- |
+| Negligible | Sore throat, headache, sneezing. |
+| Minor | Fever less than 41C, fatigue, weakness.  |
+| Serious | Fever greater than or equal to 41C, vomitting, diarrhea, shortness of breath. |
+| Critical | Loss of conciousness, GI bleed, severe hypotension, necrosis. |
+| Catastrophic | Sepsis, organ failure, brain damage, coma. |
+
 # Poisoning
 
 | Severity | Description |
