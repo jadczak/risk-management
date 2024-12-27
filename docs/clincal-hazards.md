@@ -55,6 +55,16 @@ Clinical Hazards List
 | Critical | Hallucinations, loss of conciousness, tachycardia, hyperthermia. |
 | Catastrophic | Paralysis, liver failure, psychosis, coma, death. |
 
+# Physical Trauma
+
+| Severity | Description |
+| -------- | ----------- |
+| Negligible | Transient pain or discomfort. |
+| Minor | Bruising. Lacerations or punctures not requiring stiches.  Sprained joint. |
+| Serious | Lacerations or punctures requiring stiches. Fractured appendage or long bone. Blunt trauma resulting in loss of conciousness. |
+| Critical | Fractured skull or spine. Punctured appendage or core missing vital organs. |
+| Catastrophic | Punctured vital organ, exsanguination, spinal fracture resulting in paralysis. |
+
 # Psychological
 
 | Severity | Description |
