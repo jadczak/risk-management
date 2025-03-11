@@ -45,7 +45,7 @@ Clinical Hazards List
 | Critical | Damage to the environment or property in excess of $1,000,000. Disruption of medical equipment.  Degredation of life-sustaining or life-saving medical equipment. |
 | Catastrophic | Damage to the environment or property in excess of $10,000,000. Disruption of life-sustaining or life-saving medical equipment. |
 
-*Note: *
+*Note: Per ISO 14971 the definition of harm includes property and the environment.*
 
 # Infection
 
