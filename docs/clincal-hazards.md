@@ -35,6 +35,18 @@ Clinical Hazards List
 
 *Note: Commonly called "shock" or "electric shock".  Nitpicky reviewers have pushed back on that terminology recently.  Medical books tend to refer to this as electrical injury, so hopefully there are no more complaints.*
 
+# Environmental
+
+| Severity | Description |
+| -------- | ----------- |
+| Negligible | Damage to the environment or property up to $10,000. Degregation of consumper electronics. |
+| Minor | Damage to the environment or property in excess of $10,000. Disruption of consumer electronics.  Degredation of IT or other infrastructure equipment. |
+| Serious | Damage to the environment or property in excess of $100,000. Disruption of IT or other infrastructure equipment.  Degredation of life sustaining medical equipment. |
+| Critical | Damage to the environment or property in excess of $1,000,000. Disruption of medical equipment.  Degredation of life-sustaining or life-saving medical equipment. |
+| Catastrophic | Damage to the environment or property in excess of $10,000,000. Disruption of life-sustaining or life-saving medical equipment. |
+
+*Note: *
+
 # Infection
 
 |Severity | Description |
